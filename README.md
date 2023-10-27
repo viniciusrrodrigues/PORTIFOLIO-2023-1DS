@@ -1,2 +1,2 @@
-# PORTIFOLIO-2023-1DS
-Colaboradores do projeto: Rogério (e211mtecdsfatec@etec.sp.gov.br) e Jeferson (e211ccdams@etec.sp.gov.br)
+# PORTIFOLIO-2023-
+Projeto realizado para IBM - Site High Ecology  (https://github.com/rafxnzz/High_Ecology)
